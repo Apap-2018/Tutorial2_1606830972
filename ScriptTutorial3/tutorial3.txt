@@ -1,0 +1,21 @@
+Nama : Purwo Aji Fahmi Akmal
+Kelas: APAP-A
+NPM  : 1606830972
+
+Pertanyaan 1?: apakah hasilnya? Jika error, tuliskan penjelasan Anda.
+	Mobil berhasil ditambahkan, tidak terjadi error.
+
+Pertanyaan 2: ?apakah hasilnya? Jika error, tuliskan penjelasan Anda.
+	Terjadi error, karena kita tidak memasukkan parameter amount
+
+Pertanyaan 3?: apakah data Car tersebut muncul? Jika tidak, mengapa?
+	Data Car muncul, data yang muncul sesuai dengan urutan
+
+Pertanyaan 4?: apakah data Car tersebut muncul? Jika tidak, mengapa?
+	Data car tidak muncul, karena setiap kita menghentikan program data yang sudah disimpen menjadi hilang. Model yang disimpan hanya sementara selama program jalan.
+
+Pertanyaan 5?: apakah data Car tersebut muncul?
+	Muncul, semua mobil yang pernah dimasukkan muncul sesuai urutan
+
+Pertanyaan 6?: Apakah semua data Car muncul?
+	Semua data car yang dimasukkan setelah program dijalankan muncul
